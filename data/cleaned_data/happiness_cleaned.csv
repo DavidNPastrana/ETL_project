@@ -1,157 +1,157 @@
 country_or_region_id,country_or_region,happiness_score,happiness_score_category,peace_index,peace_index_category,feel_religious,feel_religious_category
-1,Afghanistan,3.203,sad,3.574,dangerous,97.0,very_religious
-2,Albania,4.719,not_happy,1.821,safe,39.0,not_religious
-3,Algeria,5.211,not_happy,2.219,not_safe,95.0,very_religious
-4,Argentina,6.086,happy,1.989,safe,65.0,slightly_religious
-5,Armenia,4.559,not_happy,2.294,not_safe,73.0,slightly_religious
-6,Australia,7.228,very_happy,1.419,very_safe,32.0,not_religious
-7,Austria,7.246,very_happy,1.291,very_safe,55.0,slightly_religious
-8,Azerbaijan,5.208,not_happy,2.425,dangerous,50.0,slightly_religious
-9,Bahrain,6.199,very_happy,2.357,dangerous,94.0,religious
-10,Bangladesh,4.456,sad,2.128,not_safe,99.5,very_religious
-11,Belarus,5.323,not_happy,2.115,not_safe,34.0,not_religious
-12,Belgium,6.923,very_happy,1.533,very_safe,33.0,not_religious
-13,Benin,4.883,not_happy,1.986,safe,93.0,religious
-14,Bhutan,5.082,not_happy,1.506,very_safe,72.37826086956522,unknown
-15,Bolivia,5.779,happy,2.044,not_safe,89.0,religious
-16,Bosnia and Herzegovina,5.386,happy,2.019,not_safe,77.0,slightly_religious
-17,Botswana,3.488,sad,1.676,very_safe,77.0,slightly_religious
-18,Brazil,6.3,very_happy,2.271,not_safe,87.0,religious
-19,Bulgaria,5.011,not_happy,1.607,very_safe,34.0,not_religious
-20,Burkina Faso,4.587,not_happy,2.176,not_safe,88.0,religious
-21,Burundi,3.775,sad,2.52,dangerous,98.0,very_religious
-22,Cambodia,4.7,not_happy,2.066,not_safe,96.0,very_religious
-23,Cameroon,5.044,not_happy,2.538,dangerous,96.0,very_religious
-24,Canada,7.278,very_happy,1.327,very_safe,42.0,not_religious
-25,Central African Republic,3.083,sad,3.296,dangerous,94.0,religious
-26,Chad,4.35,sad,2.522,dangerous,95.0,very_religious
-27,Chile,6.444,very_happy,1.634,very_safe,70.0,slightly_religious
-28,China,5.191,not_happy,2.217,not_safe,7.0,not_religious
-29,Colombia,6.125,happy,2.661,dangerous,83.0,slightly_religious
-30,Comoros,3.973,sad,2.076622377622378,unknown,97.0,very_religious
-31,Congo (Brazzaville),4.812,not_happy,2.076622377622378,unknown,72.37826086956522,unknown
-32,Congo (Kinshasa),4.418,sad,2.076622377622378,unknown,72.37826086956522,unknown
-33,Costa Rica,7.167,very_happy,1.706,very_safe,79.0,slightly_religious
-34,Croatia,5.432,happy,1.645,very_safe,70.0,slightly_religious
-35,Cyprus,6.046,happy,1.914,safe,75.0,slightly_religious
-36,Czech Republic,6.852,very_happy,1.375,very_safe,21.0,not_religious
-37,Denmark,7.6,very_happy,1.316,very_safe,19.0,not_religious
-38,Dominican Republic,5.425,happy,2.041,not_safe,87.0,religious
-39,Ecuador,6.028,happy,1.98,safe,82.0,slightly_religious
-40,Egypt,4.166,sad,2.521,dangerous,97.0,very_religious
-41,El Salvador,6.253,very_happy,2.262,not_safe,83.0,slightly_religious
-42,Estonia,5.893,happy,1.727,safe,16.0,not_religious
-43,Ethiopia,4.286,sad,2.434,dangerous,99.3,very_religious
-44,Finland,7.769,very_happy,1.488,very_safe,28.0,not_religious
-45,France,6.592,very_happy,1.892,safe,30.0,not_religious
-46,Gabon,4.799,not_happy,2.112,not_safe,72.37826086956522,unknown
-47,Gambia,4.516,sad,2.076622377622378,unknown,72.37826086956522,unknown
-48,Georgia,4.519,sad,2.122,not_safe,81.0,slightly_religious
-49,Germany,6.985,very_happy,1.547,very_safe,40.0,not_religious
-50,Ghana,4.996,not_happy,1.796,safe,95.0,very_religious
-51,Greece,5.287,not_happy,1.933,safe,71.0,slightly_religious
-52,Guatemala,6.436,very_happy,2.264,not_safe,88.0,religious
-53,Guinea,4.534,sad,2.125,not_safe,97.0,very_religious
-54,Haiti,3.597,sad,2.052,not_safe,75.0,slightly_religious
-55,Honduras,5.86,happy,2.341,dangerous,84.0,religious
-56,Hong Kong,5.43,happy,2.076622377622378,unknown,24.0,not_religious
-57,Hungary,5.758,happy,1.54,very_safe,39.0,not_religious
-58,Iceland,7.494,very_happy,1.072,very_safe,72.37826086956522,unknown
-59,India,4.015,sad,2.605,dangerous,90.0,religious
-60,Indonesia,5.192,not_happy,1.785,safe,98.7,very_religious
-61,Iran,4.548,not_happy,2.542,dangerous,73.0,slightly_religious
-62,Iraq,4.437,sad,3.369,dangerous,84.0,religious
-63,Ireland,7.021,very_happy,1.39,very_safe,54.0,slightly_religious
-64,Israel,7.139,very_happy,2.735,dangerous,51.0,slightly_religious
-65,Italy,6.223,very_happy,1.754,safe,72.0,slightly_religious
-66,Ivory Coast,4.944,not_happy,2.076622377622378,unknown,88.0,religious
-67,Jamaica,5.89,happy,2.038,not_safe,70.0,slightly_religious
-68,Japan,5.886,happy,1.369,very_safe,24.0,not_religious
-69,Jordan,4.906,not_happy,2.012,safe,96.0,very_religious
-70,Kazakhstan,5.809,happy,1.932,safe,43.0,not_religious
-71,Kenya,4.509,sad,2.3,not_safe,94.0,religious
-72,Kosovo,6.1,happy,2.049,not_safe,72.37826086956522,unknown
-73,Kuwait,6.021,happy,1.794,safe,91.0,religious
-74,Kyrgyzstan,5.261,not_happy,2.076622377622378,unknown,72.0,slightly_religious
-75,Laos,4.796,not_happy,1.801,safe,97.0,very_religious
-76,Latvia,5.94,happy,1.718,very_safe,39.0,not_religious
-77,Lebanon,5.197,not_happy,2.8,dangerous,87.0,religious
-78,Lesotho,3.802,sad,2.167,not_safe,72.37826086956522,unknown
-79,Liberia,3.975,sad,1.889,safe,94.0,religious
-80,Libya,5.525,happy,3.285,dangerous,72.37826086956522,unknown
-81,Lithuania,6.149,happy,1.728,safe,42.0,not_religious
-82,Luxembourg,7.09,very_happy,2.076622377622378,unknown,39.0,not_religious
-83,Madagascar,3.933,sad,1.867,safe,93.0,religious
-84,Malawi,3.41,sad,1.779,safe,99.0,very_religious
-85,Malaysia,5.339,not_happy,1.529,very_safe,96.0,very_religious
-86,Mali,4.39,sad,2.71,dangerous,95.0,very_religious
-87,Malta,6.726,very_happy,2.076622377622378,unknown,86.0,religious
-88,Mauritania,4.49,sad,2.333,not_safe,98.5,very_religious
-89,Mauritius,5.888,happy,1.562,very_safe,72.37826086956522,unknown
-90,Mexico,6.595,very_happy,2.6,dangerous,73.0,slightly_religious
-91,Moldova,5.529,happy,1.951,safe,72.0,slightly_religious
-92,Mongolia,5.285,not_happy,1.792,safe,72.37826086956522,unknown
-93,Montenegro,5.523,happy,1.939,safe,71.0,slightly_religious
-94,Morocco,5.208,not_happy,2.07,not_safe,97.0,very_religious
-95,Mozambique,4.466,sad,2.099,not_safe,86.0,religious
-96,Myanmar,4.36,sad,2.393,dangerous,97.0,very_religious
-97,Namibia,4.639,not_happy,1.892,safe,92.0,religious
-98,Nepal,4.913,not_happy,2.003,safe,93.0,religious
-99,Netherlands,7.488,very_happy,1.53,very_safe,33.0,not_religious
-100,New Zealand,7.307,very_happy,1.221,very_safe,33.0,not_religious
-101,Nicaragua,6.105,happy,2.312,not_safe,84.0,religious
-102,Niger,4.628,not_happy,2.394,dangerous,99.7,very_religious
-103,Nigeria,5.265,not_happy,2.898,dangerous,96.0,very_religious
-104,North Macedonia,5.274,not_happy,1.933,safe,72.37826086956522,unknown
-105,Northern Cyprus,5.718,happy,2.076622377622378,unknown,72.37826086956522,unknown
-106,Norway,7.554,very_happy,1.536,very_safe,21.0,not_religious
-107,Pakistan,5.653,happy,3.072,dangerous,92.0,religious
-108,Palestinian Territories,4.696,not_happy,2.076622377622378,unknown,72.37826086956522,unknown
-109,Panama,6.321,very_happy,1.804,safe,88.0,religious
-110,Paraguay,5.743,happy,2.055,not_safe,92.0,religious
-111,Peru,5.697,happy,2.016,not_safe,84.0,religious
-112,Philippines,5.631,happy,2.516,dangerous,96.0,very_religious
-113,Poland,6.182,happy,1.654,very_safe,75.0,slightly_religious
-114,Portugal,5.693,happy,1.274,very_safe,72.0,slightly_religious
-115,Qatar,6.374,very_happy,1.696,very_safe,95.0,very_religious
-116,Romania,6.07,happy,1.606,very_safe,84.0,religious
-117,Russia,5.648,happy,3.093,dangerous,34.0,not_religious
-118,Rwanda,3.334,sad,2.014,not_safe,95.0,very_religious
-119,Saudi Arabia,6.375,very_happy,2.409,dangerous,93.0,religious
-120,Senegal,4.681,not_happy,1.883,safe,96.0,very_religious
-121,Serbia,5.603,happy,1.812,safe,54.0,slightly_religious
-122,Sierra Leone,4.374,sad,1.822,safe,72.37826086956522,unknown
-123,Singapore,6.262,very_happy,1.347,very_safe,70.0,slightly_religious
-124,Slovakia,6.198,very_happy,1.55,very_safe,47.0,not_religious
-125,Slovenia,6.118,happy,1.355,very_safe,47.0,not_religious
-126,Somalia,4.668,not_happy,3.3,dangerous,99.8,very_religious
-127,South Africa,4.722,not_happy,2.399,dangerous,85.0,religious
-128,South Korea,5.895,happy,1.867,safe,43.0,not_religious
-129,South Sudan,2.853,sad,3.526,dangerous,72.37826086956522,unknown
-130,Spain,6.354,very_happy,1.699,very_safe,49.0,not_religious
-131,Sri Lanka,4.366,sad,1.986,safe,98.6,very_religious
-132,Swaziland,4.212,sad,2.076622377622378,unknown,72.37826086956522,unknown
-133,Sweden,7.343,very_happy,1.533,very_safe,17.0,not_religious
-134,Switzerland,7.48,very_happy,1.383,very_safe,41.0,not_religious
-135,Syria,3.462,sad,3.566,dangerous,89.0,religious
-136,Taiwan,6.446,very_happy,1.725,very_safe,45.0,not_religious
-137,Tajikistan,5.467,happy,2.196,not_safe,85.0,religious
-138,Tanzania,3.231,sad,1.86,safe,89.0,religious
-139,Thailand,6.008,happy,2.278,not_safe,97.0,very_religious
-140,Togo,4.085,sad,2.205,not_safe,80.0,slightly_religious
-141,Trinidad & Tobago,6.192,very_happy,2.076622377622378,unknown,72.37826086956522,unknown
-142,Tunisia,4.461,sad,2.035,not_safe,93.0,religious
-143,Turkey,5.373,not_happy,3.015,dangerous,82.0,slightly_religious
-144,Turkmenistan,5.247,not_happy,2.265,not_safe,80.0,slightly_religious
-145,Uganda,4.189,sad,2.196,not_safe,93.0,religious
-146,Ukraine,4.332,sad,2.95,dangerous,46.0,not_religious
-147,United Arab Emirates,6.825,very_happy,1.847,safe,91.0,religious
-148,United Kingdom,7.054,very_happy,1.801,safe,27.0,not_religious
-149,United States,6.892,very_happy,2.401,dangerous,69.0,slightly_religious
-150,Uruguay,6.293,very_happy,1.711,very_safe,41.0,not_religious
-151,Uzbekistan,6.174,happy,2.166,not_safe,59.0,slightly_religious
-152,Venezuela,4.707,not_happy,2.671,dangerous,79.0,slightly_religious
-153,Vietnam,5.175,not_happy,1.877,safe,30.0,not_religious
-154,Yemen,3.38,sad,3.412,dangerous,99.1,very_religious
-155,Zambia,4.107,sad,1.805,safe,95.0,very_religious
-156,Zimbabwe,3.663,sad,2.463,dangerous,88.0,religious
+1,Afghanistan,3.20,sad,3.57,dangerous,97.00,very_religious
+2,Albania,4.72,not_happy,1.82,safe,39.00,not_religious
+3,Algeria,5.21,not_happy,2.22,not_safe,95.00,very_religious
+4,Argentina,6.09,happy,1.99,safe,65.00,slightly_religious
+5,Armenia,4.56,not_happy,2.29,not_safe,73.00,slightly_religious
+6,Australia,7.23,very_happy,1.42,very_safe,32.00,not_religious
+7,Austria,7.25,very_happy,1.29,very_safe,55.00,slightly_religious
+8,Azerbaijan,5.21,not_happy,2.42,dangerous,50.00,slightly_religious
+9,Bahrain,6.20,very_happy,2.36,dangerous,94.00,religious
+10,Bangladesh,4.46,sad,2.13,not_safe,100.00,very_religious
+11,Belarus,5.32,not_happy,2.12,not_safe,34.00,not_religious
+12,Belgium,6.92,very_happy,1.53,very_safe,33.00,not_religious
+13,Benin,4.88,not_happy,1.99,safe,93.00,religious
+14,Bhutan,5.08,not_happy,1.51,very_safe,72.00,unknown
+15,Bolivia,5.78,happy,2.04,not_safe,89.00,religious
+16,Bosnia and Herzegovina,5.39,happy,2.02,not_safe,77.00,slightly_religious
+17,Botswana,3.49,sad,1.68,very_safe,77.00,slightly_religious
+18,Brazil,6.30,very_happy,2.27,not_safe,87.00,religious
+19,Bulgaria,5.01,not_happy,1.61,very_safe,34.00,not_religious
+20,Burkina Faso,4.59,not_happy,2.18,not_safe,88.00,religious
+21,Burundi,3.78,sad,2.52,dangerous,98.00,very_religious
+22,Cambodia,4.70,not_happy,2.07,not_safe,96.00,very_religious
+23,Cameroon,5.04,not_happy,2.54,dangerous,96.00,very_religious
+24,Canada,7.28,very_happy,1.33,very_safe,42.00,not_religious
+25,Central African Republic,3.08,sad,3.30,dangerous,94.00,religious
+26,Chad,4.35,sad,2.52,dangerous,95.00,very_religious
+27,Chile,6.44,very_happy,1.63,very_safe,70.00,slightly_religious
+28,China,5.19,not_happy,2.22,not_safe,7.00,not_religious
+29,Colombia,6.12,happy,2.66,dangerous,83.00,slightly_religious
+30,Comoros,3.97,sad,2.08,unknown,97.00,very_religious
+31,Congo (Brazzaville),4.81,not_happy,2.08,unknown,72.00,unknown
+32,Congo (Kinshasa),4.42,sad,2.08,unknown,72.00,unknown
+33,Costa Rica,7.17,very_happy,1.71,very_safe,79.00,slightly_religious
+34,Croatia,5.43,happy,1.64,very_safe,70.00,slightly_religious
+35,Cyprus,6.05,happy,1.91,safe,75.00,slightly_religious
+36,Czech Republic,6.85,very_happy,1.38,very_safe,21.00,not_religious
+37,Denmark,7.60,very_happy,1.32,very_safe,19.00,not_religious
+38,Dominican Republic,5.42,happy,2.04,not_safe,87.00,religious
+39,Ecuador,6.03,happy,1.98,safe,82.00,slightly_religious
+40,Egypt,4.17,sad,2.52,dangerous,97.00,very_religious
+41,El Salvador,6.25,very_happy,2.26,not_safe,83.00,slightly_religious
+42,Estonia,5.89,happy,1.73,safe,16.00,not_religious
+43,Ethiopia,4.29,sad,2.43,dangerous,99.00,very_religious
+44,Finland,7.77,very_happy,1.49,very_safe,28.00,not_religious
+45,France,6.59,very_happy,1.89,safe,30.00,not_religious
+46,Gabon,4.80,not_happy,2.11,not_safe,72.00,unknown
+47,Gambia,4.52,sad,2.08,unknown,72.00,unknown
+48,Georgia,4.52,sad,2.12,not_safe,81.00,slightly_religious
+49,Germany,6.98,very_happy,1.55,very_safe,40.00,not_religious
+50,Ghana,5.00,not_happy,1.80,safe,95.00,very_religious
+51,Greece,5.29,not_happy,1.93,safe,71.00,slightly_religious
+52,Guatemala,6.44,very_happy,2.26,not_safe,88.00,religious
+53,Guinea,4.53,sad,2.12,not_safe,97.00,very_religious
+54,Haiti,3.60,sad,2.05,not_safe,75.00,slightly_religious
+55,Honduras,5.86,happy,2.34,dangerous,84.00,religious
+56,Hong Kong,5.43,happy,2.08,unknown,24.00,not_religious
+57,Hungary,5.76,happy,1.54,very_safe,39.00,not_religious
+58,Iceland,7.49,very_happy,1.07,very_safe,72.00,unknown
+59,India,4.01,sad,2.60,dangerous,90.00,religious
+60,Indonesia,5.19,not_happy,1.78,safe,99.00,very_religious
+61,Iran,4.55,not_happy,2.54,dangerous,73.00,slightly_religious
+62,Iraq,4.44,sad,3.37,dangerous,84.00,religious
+63,Ireland,7.02,very_happy,1.39,very_safe,54.00,slightly_religious
+64,Israel,7.14,very_happy,2.74,dangerous,51.00,slightly_religious
+65,Italy,6.22,very_happy,1.75,safe,72.00,slightly_religious
+66,Ivory Coast,4.94,not_happy,2.08,unknown,88.00,religious
+67,Jamaica,5.89,happy,2.04,not_safe,70.00,slightly_religious
+68,Japan,5.89,happy,1.37,very_safe,24.00,not_religious
+69,Jordan,4.91,not_happy,2.01,safe,96.00,very_religious
+70,Kazakhstan,5.81,happy,1.93,safe,43.00,not_religious
+71,Kenya,4.51,sad,2.30,not_safe,94.00,religious
+72,Kosovo,6.10,happy,2.05,not_safe,72.00,unknown
+73,Kuwait,6.02,happy,1.79,safe,91.00,religious
+74,Kyrgyzstan,5.26,not_happy,2.08,unknown,72.00,slightly_religious
+75,Laos,4.80,not_happy,1.80,safe,97.00,very_religious
+76,Latvia,5.94,happy,1.72,very_safe,39.00,not_religious
+77,Lebanon,5.20,not_happy,2.80,dangerous,87.00,religious
+78,Lesotho,3.80,sad,2.17,not_safe,72.00,unknown
+79,Liberia,3.98,sad,1.89,safe,94.00,religious
+80,Libya,5.52,happy,3.28,dangerous,72.00,unknown
+81,Lithuania,6.15,happy,1.73,safe,42.00,not_religious
+82,Luxembourg,7.09,very_happy,2.08,unknown,39.00,not_religious
+83,Madagascar,3.93,sad,1.87,safe,93.00,religious
+84,Malawi,3.41,sad,1.78,safe,99.00,very_religious
+85,Malaysia,5.34,not_happy,1.53,very_safe,96.00,very_religious
+86,Mali,4.39,sad,2.71,dangerous,95.00,very_religious
+87,Malta,6.73,very_happy,2.08,unknown,86.00,religious
+88,Mauritania,4.49,sad,2.33,not_safe,98.00,very_religious
+89,Mauritius,5.89,happy,1.56,very_safe,72.00,unknown
+90,Mexico,6.60,very_happy,2.60,dangerous,73.00,slightly_religious
+91,Moldova,5.53,happy,1.95,safe,72.00,slightly_religious
+92,Mongolia,5.28,not_happy,1.79,safe,72.00,unknown
+93,Montenegro,5.52,happy,1.94,safe,71.00,slightly_religious
+94,Morocco,5.21,not_happy,2.07,not_safe,97.00,very_religious
+95,Mozambique,4.47,sad,2.10,not_safe,86.00,religious
+96,Myanmar,4.36,sad,2.39,dangerous,97.00,very_religious
+97,Namibia,4.64,not_happy,1.89,safe,92.00,religious
+98,Nepal,4.91,not_happy,2.00,safe,93.00,religious
+99,Netherlands,7.49,very_happy,1.53,very_safe,33.00,not_religious
+100,New Zealand,7.31,very_happy,1.22,very_safe,33.00,not_religious
+101,Nicaragua,6.10,happy,2.31,not_safe,84.00,religious
+102,Niger,4.63,not_happy,2.39,dangerous,100.00,very_religious
+103,Nigeria,5.26,not_happy,2.90,dangerous,96.00,very_religious
+104,North Macedonia,5.27,not_happy,1.93,safe,72.00,unknown
+105,Northern Cyprus,5.72,happy,2.08,unknown,72.00,unknown
+106,Norway,7.55,very_happy,1.54,very_safe,21.00,not_religious
+107,Pakistan,5.65,happy,3.07,dangerous,92.00,religious
+108,Palestinian Territories,4.70,not_happy,2.08,unknown,72.00,unknown
+109,Panama,6.32,very_happy,1.80,safe,88.00,religious
+110,Paraguay,5.74,happy,2.06,not_safe,92.00,religious
+111,Peru,5.70,happy,2.02,not_safe,84.00,religious
+112,Philippines,5.63,happy,2.52,dangerous,96.00,very_religious
+113,Poland,6.18,happy,1.65,very_safe,75.00,slightly_religious
+114,Portugal,5.69,happy,1.27,very_safe,72.00,slightly_religious
+115,Qatar,6.37,very_happy,1.70,very_safe,95.00,very_religious
+116,Romania,6.07,happy,1.61,very_safe,84.00,religious
+117,Russia,5.65,happy,3.09,dangerous,34.00,not_religious
+118,Rwanda,3.33,sad,2.01,not_safe,95.00,very_religious
+119,Saudi Arabia,6.38,very_happy,2.41,dangerous,93.00,religious
+120,Senegal,4.68,not_happy,1.88,safe,96.00,very_religious
+121,Serbia,5.60,happy,1.81,safe,54.00,slightly_religious
+122,Sierra Leone,4.37,sad,1.82,safe,72.00,unknown
+123,Singapore,6.26,very_happy,1.35,very_safe,70.00,slightly_religious
+124,Slovakia,6.20,very_happy,1.55,very_safe,47.00,not_religious
+125,Slovenia,6.12,happy,1.36,very_safe,47.00,not_religious
+126,Somalia,4.67,not_happy,3.30,dangerous,100.00,very_religious
+127,South Africa,4.72,not_happy,2.40,dangerous,85.00,religious
+128,South Korea,5.90,happy,1.87,safe,43.00,not_religious
+129,South Sudan,2.85,sad,3.53,dangerous,72.00,unknown
+130,Spain,6.35,very_happy,1.70,very_safe,49.00,not_religious
+131,Sri Lanka,4.37,sad,1.99,safe,99.00,very_religious
+132,Swaziland,4.21,sad,2.08,unknown,72.00,unknown
+133,Sweden,7.34,very_happy,1.53,very_safe,17.00,not_religious
+134,Switzerland,7.48,very_happy,1.38,very_safe,41.00,not_religious
+135,Syria,3.46,sad,3.57,dangerous,89.00,religious
+136,Taiwan,6.45,very_happy,1.72,very_safe,45.00,not_religious
+137,Tajikistan,5.47,happy,2.20,not_safe,85.00,religious
+138,Tanzania,3.23,sad,1.86,safe,89.00,religious
+139,Thailand,6.01,happy,2.28,not_safe,97.00,very_religious
+140,Togo,4.08,sad,2.20,not_safe,80.00,slightly_religious
+141,Trinidad & Tobago,6.19,very_happy,2.08,unknown,72.00,unknown
+142,Tunisia,4.46,sad,2.04,not_safe,93.00,religious
+143,Turkey,5.37,not_happy,3.02,dangerous,82.00,slightly_religious
+144,Turkmenistan,5.25,not_happy,2.26,not_safe,80.00,slightly_religious
+145,Uganda,4.19,sad,2.20,not_safe,93.00,religious
+146,Ukraine,4.33,sad,2.95,dangerous,46.00,not_religious
+147,United Arab Emirates,6.82,very_happy,1.85,safe,91.00,religious
+148,United Kingdom,7.05,very_happy,1.80,safe,27.00,not_religious
+149,United States,6.89,very_happy,2.40,dangerous,69.00,slightly_religious
+150,Uruguay,6.29,very_happy,1.71,very_safe,41.00,not_religious
+151,Uzbekistan,6.17,happy,2.17,not_safe,59.00,slightly_religious
+152,Venezuela,4.71,not_happy,2.67,dangerous,79.00,slightly_religious
+153,Vietnam,5.18,not_happy,1.88,safe,30.00,not_religious
+154,Yemen,3.38,sad,3.41,dangerous,99.00,very_religious
+155,Zambia,4.11,sad,1.80,safe,95.00,very_religious
+156,Zimbabwe,3.66,sad,2.46,dangerous,88.00,religious
