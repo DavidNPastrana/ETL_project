@@ -1,7 +1,7 @@
 # ETL and analysis project: HAPPINESS
 
 
-![Image Description](/Users/david/Desktop/IronHack/Projects/ETL_project_happiness/graphs/happiness_photo.avif)
+![Image Description](graphs/happiness_photo.png)
 
 Extraction, transformation and loading project about happiness
 
