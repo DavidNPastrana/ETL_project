@@ -18,12 +18,12 @@ Additionally, this project includes conducting detailed analysis and deriving va
 
 The data for this project has been extracted from three different sources using two different extraction methods:
 
-[kaggle](https://www.kaggle.com/)
+[kaggle:](https://www.kaggle.com/)
 The happiness index data from 2019 was downloaded as a CSV document, providing information about the happiness index in different countries.
 
-<a href=“https://en.wikipedia.org/wiki/Global_Peace_Index”>Institute for Economics and Peace:</a> A scraping process was performed to extract table data related to the global peace index in countries. The data used for analysis is from 2019.
+[Institute for Economics and Peace:](https://en.wikipedia.org/wiki/Global_Peace_Index) A scraping process was performed to extract table data related to the global peace index in countries. The data used for analysis is from 2019.
 
-<a href=“https://ceoworld.biz/2020/05/16/revealed-the-worlds-most-and-least-religious-countries-based-on-religious-beliefs-2020/”>Ceoworld Magazine:</a> Another web scraping process was used to extract table data related to religious beliefs in different countries.
+[Ceoworld Magazine](https://ceoworld.biz/2020/05/16/revealed-the-worlds-most-and-least-religious-countries-based-on-religious-beliefs-2020/) Another web scraping process was used to extract table data related to religious beliefs in different countries.
 
 
 
@@ -91,5 +91,4 @@ This folder contains .png files of the graphs obtained from the data analysis. T
 The README file provides a comprehensive overview of the project, including the project description, data extraction, cleaning, analysis, and conclusions. It serves as a guide for users to understand the project's purpose and the steps involved.
 
 
-<a href=“https://www.linkedin.com/in/david-n%C3%BA%C3%B1ez-pastrana-595ba684/”> LinkedIn profile of the author
-</a>
+[LinkedIn profile of the author](https://www.linkedin.com/in/david-n%C3%BA%C3%B1ez-pastrana-595ba684/)
