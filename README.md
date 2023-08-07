@@ -18,8 +18,8 @@ Additionally, this project includes conducting detailed analysis and deriving va
 
 The data for this project has been extracted from three different sources using two different extraction methods:
 
-<a href=“https://www.kaggle.com/”> Kaggle:
-</a>The happiness index data from 2019 was downloaded as a CSV document, providing information about the happiness index in different countries.
+[kaggle](https://www.kaggle.com/)
+The happiness index data from 2019 was downloaded as a CSV document, providing information about the happiness index in different countries.
 
 <a href=“https://en.wikipedia.org/wiki/Global_Peace_Index”>Institute for Economics and Peace:</a> A scraping process was performed to extract table data related to the global peace index in countries. The data used for analysis is from 2019.
 
@@ -54,14 +54,14 @@ Based on the analysis, several conclusions can be drawn:
 
 - There is a positive correlation, although not very strong, between the safety level of a country and its happiness index. This implies that countries with higher safety tend to have higher happiness scores. It should be noted that a higher peace_index level indicates a less safe country.
 
-![Image Description](/Users/david/Desktop/IronHack/Projects/ETL_project_happiness/graphs/peace_index_happiness_score.png)
-![Image Description](/Users/david/Desktop/IronHack/Projects/ETL_project_happiness/graphs/download.png)
+![Image Description](graphs/peace_index_happiness_score.png)
+![Image Description](graphs/download.png)
 
 
 - Conversely, there is a negative correlation between the percentage of religious individuals in a country and its happiness index. This suggests that countries with a higher percentage of religious people tend to have lower happiness scores.
 
-![Image Description](/Users/david/Desktop/IronHack/Projects/ETL_project_happiness/graphs/feel_religious_happiness_score.png)
-![Image Description](/Users/david/Desktop/IronHack/Projects/ETL_project_happiness/graphs/feel_religious_happiness_bars.png)
+![Image Description](graphs/feel_religious_happiness_score.png)
+![Image Description](graphs/feel_religious_happiness_bars.png)
 
 
 These findings provide valuable insights into the relationships between safety, religiosity, and happiness, highlighting the complex dynamics involved in determining a country's overall happiness.
