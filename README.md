@@ -27,7 +27,7 @@ The happiness index data from 2019 was downloaded as a CSV document, providing i
 
 
 
-## 3. Data Cleaning ant Transformation
+## 3. Data Cleaning and Transformation
 
 To ensure the dataset is ready for database creation in MySQL Workbench and subsequent data analysis, the data underwent a series of cleaning and transformation steps. The following actions were taken to clean and prepare the data:
 
